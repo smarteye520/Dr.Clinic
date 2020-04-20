@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.8.1)
+  - IHKeyboardAvoiding (4.6)
+  - SideMenu (5.0.3)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.1)
+  - IHKeyboardAvoiding
+  - SideMenu
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - IHKeyboardAvoiding
+    - SideMenu
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  IHKeyboardAvoiding: 2a664fdb5f964359fa7ec8fc5c9aebb447583ff8
+  SideMenu: 1dcaabce84538c53325c287f7fe62999379a641c
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 26fe4951edb212e42881b09f081e555047de1838
+
+COCOAPODS: 1.6.1
